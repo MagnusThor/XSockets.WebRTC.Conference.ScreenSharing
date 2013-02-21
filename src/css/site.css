@@ -1,0 +1,27 @@
+﻿     #videos {
+            background: #fafafa;
+        }
+
+        #remoteVideos video {
+            float: left;
+            padding: 10px;
+            border: 1px solid;
+            width: 320px;
+            height: auto;
+        }
+
+        #localVideo {
+            width: 100%;
+            max-width: 320px;
+            
+        }
+
+        #you {
+        }
+
+        #main {
+            margin-top: 60px;
+        }
+        .splash {
+            text-align: center;
+        }
